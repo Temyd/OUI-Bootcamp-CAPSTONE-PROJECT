@@ -22,14 +22,14 @@
 
 
 # Data Sourcing
-Dataset and Project Brief can be gotten [here](https://onedrive.live.com/?authkey=%21AB7xOvKKpxDkgzU&id=A15D44923B952A82%21222&cid=A15D44923B952A82)
+Dataset and Project Brief can be gotten [here]()
 
 # Data Transformation
-● I loaded the employee dataset into Power Query it had 6 columns 1016 rows
+● I loaded the employee dataset into Power Query which had 6 columns 1016 rows
 
 ● I assigned a generic gender status (Undisclosed) to employees that refused to disclose their gender.
 
-● I removed employees without salary (because they are no longer with the company), departments that indicated as “NULL”. I also removed duplicates from the dataset thus giving us 6 columns 943 rows
+● I removed employees without salary (because it indicates they are no longer with the company), departments that indicated as “NULL”. I also removed duplicates from the dataset thus giving us 6 columns 943 rows
 
 ● I had to get the bonus salary for each employee,so I loaded the bonus details dataset which had 6 columns and 12 rows. I unpivoted the rating columns givng me a total of 3 columns and 60 rows after which I then merged both the bonus details and employee details together using department and rating column. Leaving us with 7 columns 943 rows. (Since I merged already, I disabled the bonus dataset from loading into powerbi)
 
@@ -37,16 +37,16 @@ Dataset and Project Brief can be gotten [here](https://onedrive.live.com/?authke
 
 ● I created some new measures to help in my analysis
 
-● I also created a new column 'Salary Ranges' to group the salaries in a band of 10k
-
-● 
-● 
+● I also created a new column 'Salary Range' to group the salaries in a band of #30k
 
 # Data Visualisation
+<img width="709" alt="Gender dashboard" src="https://user-images.githubusercontent.com/105246702/191849429-3ce84046-e1bf-4496-97f4-02a4a850d0e9.png">
+
+Interact with dashboard [here]()
 
 # Analysis
 
-⚠ N.B: The undisclosed gender category may affect the accuracy of this analysis. However, they make up for only about 4% of the total employees.
+⚠ N.B: The undisclosed gender category may affect the accuracy of this analysis. However, they make up only about 4% of the total employees.
 
 ### Gender Distribution
   ● General Overview
@@ -71,7 +71,7 @@ Lagos also has more 6 Males than Females.
 
   ● Department
   
-Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
+Considering Male and Female Gender, Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
 
 In Marketing, Engineering and Training it's fairly distributed with gap of 2,2, 1 respectively
 
@@ -127,6 +127,11 @@ There was a recent regulation which requires manufacturing companies to pay empl
 Palmoria group falls short of this, with about 69% of the workers earning less than the minimum requirment
 
 <img width="183" alt="90k" src="https://user-images.githubusercontent.com/105246702/191842435-1afd415c-fb20-414a-b9ed-82df8ca13362.png">
+
+  ● Pay and Gender Gap
+  
+<img width="709" alt="Gap" src="https://user-images.githubusercontent.com/105246702/191849813-78c5e40b-8d23-4cf1-b709-038a7735afe4.png">
+
 
 # Findings
 •	Gender is fairly distributed throughout the organization
