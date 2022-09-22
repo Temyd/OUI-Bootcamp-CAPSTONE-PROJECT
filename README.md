@@ -10,14 +10,14 @@
 
 # Objective
 ● Focus is on gender related issues within the organization and its regions
-1. Gender distribution in the organization? Distil to regions and departments
+1. Gender distribution in the organization
 2. Insights on ratings based on gender
 3. Company’s salary structure. To identify if there is a gender pay gap. If there is, the department and regions that should be the focus of management.
-4. If Palmoria meets the requirement of manufacturing companies paying employees a minimum of $90,000
-5. Pay distribution of employees grouped by a band of $10,000.  How many employees fall into a band.
+4. If Palmoria meets the requirement of manufacturing companies paying employees a minimum of #90,000
+5. Pay distribution of employees grouped by a band of #30,000.
 5. Allocation of the annual bonus pay to employees based on the performance rating.
-- Calculate the amount to be paid as bonus to individual employees
-- Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
+- Amount to be paid as bonus to individual employees
+- Total amount to be paid to individual employees (salary inclusive of bonus)
 - Total amount to be paid out per region and company-wide
 
 
@@ -45,14 +45,18 @@
 
 # Analysis
 
+⚠ N.B: The undisclosed gender category may affect the accuracy of this analysis. However, they make up for only about 4% of the total employees.
+
 ### Gender Distribution
   ● General Overview
 
 There is a total of 943 employees, 464 Males, 440 Females and 39 undisclosed.
 
-
+<img width="128" alt="GENDER DISTRIBUTION" src="https://user-images.githubusercontent.com/105246702/191838029-7f508b4e-c330-4485-9605-fea0f34817ee.png">
 
 Gender distribution is fair in the company with Males being 2% more than females and about 4% of employees did not disclose their gender.
+
+<img width="190" alt="overall gender distribution" src="https://user-images.githubusercontent.com/105246702/191838078-6918e522-1704-4436-a85f-a586f395935d.png">
 
   ● Regions
   
@@ -62,17 +66,27 @@ Kaduna is the region with the widest gender gap with 18 more Males than Females.
 
 Lagos also has more 6 Males than Females.
 
+<img width="185" alt="GENDER DISTRIBUTION by region" src="https://user-images.githubusercontent.com/105246702/191838182-e08dd2a8-02f3-419d-8ca6-ac728274c979.png">
+
   ● Department
+  
 Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
 
 In Marketing, Engineering and Training it's fairly distributed with gap of 2,2, 1 respectively
 
 Futher Analysis shows that of the Top 5 departments with most gap, Research and developemtent is the only department where the Females are more than Males, the remaning 4 have more males.
-Other departments with more females are Services, business development, Human Resources, Engineering
+Other departments with more females are Services, business development, Human Resources, Engineering.
+
+<img width="201" alt="GENDER DISTRIBUTION by department" src="https://user-images.githubusercontent.com/105246702/191838285-06e8bbff-215d-42e4-b2a8-ab7ae53aa427.png">
+
 
 ### Rating
-Rating was fairly distibuted among the genders 
+Rating was fairly distibuted among the genders.
+
 Males had more very poor,poor and average rating while females lead in the good and very good category
+
+<img width="381" alt="Rating by gender" src="https://user-images.githubusercontent.com/105246702/191838392-4a6f2a63-4235-4d00-9d17-288205de283f.png">
+
 
 ### Salary
   ● General Overview
@@ -81,23 +95,56 @@ Total Salary to be Paid out by the company is #71.74M incuding bonus, bonus sala
 
 The average salary is #73,747
 
+<img width="115" alt="salary company" src="https://user-images.githubusercontent.com/105246702/191838457-72752c48-795f-4e07-8059-0dc62229cee0.png">
+
+Average salary among the genders is fairly distributed
+
+<img width="191" alt="average salary" src="https://user-images.githubusercontent.com/105246702/191838746-addf82c3-3eaf-4db6-9c90-23cb23a82ad1.png">
+
   ● Regions
   
 Kaduna Total Salary is #24.79M, Abuja is #27.42M and Lagos Total Salary is #19.53M
+
+<img width="187" alt="salary regional" src="https://user-images.githubusercontent.com/105246702/191838574-e9a43293-621c-4ae8-ac03-920a84366f28.png">
 
   ● Department
   
 In most departments, the Males earn more except 3 departments where females earn more Training, Marketing and Engineering
 
+<img width="187" alt="Salary department" src="https://user-images.githubusercontent.com/105246702/191838825-a2532190-144c-428d-ab98-e0b4136d1315.png">
+
   ● Salary Range
   
-Grouping the salaries by a band of #10k
-Most employees earn within the range 71k to 80k, and least earn within 21k to 30k.
+Grouping the salaries by a band of #30k. Most employees earn within the range 61k to 90k, and least earn within 1k to 30k.
+
+<img width="207" alt="salary range" src="https://user-images.githubusercontent.com/105246702/191840470-fd663365-f28d-4e37-9030-c9f48413242b.png">
 
   ● Minimum Salary requirment
   
-There was a recent regulation that which requires manufacturing companies to pay employees a minimum of #90,000.
+There was a recent regulation which requires manufacturing companies to pay employees a minimum of #90,000.
+
 Palmoria group falls short of this, with about 69% of the workers earning less than the minimum requirment
+
+<img width="183" alt="90k" src="https://user-images.githubusercontent.com/105246702/191842435-1afd415c-fb20-414a-b9ed-82df8ca13362.png">
+
+# Findings
+•	Gender is fairly distributed throughout the organization
+
+•	Average salary is close for both gender categories but there are far more men than women earning between $110,000 - $120,000
+
+•	Employees ratings are fairly distributed across the genders
+
+•	Majority of the employees earn salaries below the minimum requirement 
+
+
+# Recommendation
+•	The salaries should be reviewed upwards for the entire organization to ensure the minimum salary requirement is met.
+
+•	The salary gap between men and women earning between $110,000 - $120,000 should be reviewed for fairness.
+
+•	Gender distribution should be improved in Kaduna region and across Legal, Support, Sales, and Accounting departments.
+
+
 
 
 
