@@ -22,7 +22,7 @@
 
 
 # Data Sourcing
-Dataset and Project Brief can be gotten here[https://onedrive.live.com/?authkey=%21AB7xOvKKpxDkgzU&id=A15D44923B952A82%21222&cid=A15D44923B952A82]
+Dataset and Project Brief can be gotten [here](https://onedrive.live.com/?authkey=%21AB7xOvKKpxDkgzU&id=A15D44923B952A82%21222&cid=A15D44923B952A82)
 
 # Data Transformation
 ● I loaded the employee dataset into Power Query it had 6 columns 1016 rows
