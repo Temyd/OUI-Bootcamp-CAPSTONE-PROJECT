@@ -42,7 +42,7 @@ Dataset and Project Brief can be gotten [here]()
 # Data Visualisation
 <img width="709" alt="Gender dashboard" src="https://user-images.githubusercontent.com/105246702/191849429-3ce84046-e1bf-4496-97f4-02a4a850d0e9.png">
 
-Interact with dashboard [here]()
+Interact with dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjM1Y2VkZGYtZjM3Ny00ZDUwLTlmNzQtNjg3MTM4NDZiNmQ0IiwidCI6IjBjZmU3YmI2LTZhMzUtNDM4OS1hODQ4LTU1ZTdjZjZlN2NmMSJ9)
 
 # Analysis
 
