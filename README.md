@@ -65,7 +65,7 @@ Abuja has a balanced proportion of Males and Females with 158 each.
 
 Kaduna is the region with the widest gender gap with 18 more Males than Females.
 
-Lagos also has more 6 Males than Females.
+Lagos also has 6 more Males than Females.
 
 <img width="185" alt="GENDER DISTRIBUTION by region" src="https://user-images.githubusercontent.com/105246702/191838182-e08dd2a8-02f3-419d-8ca6-ac728274c979.png">
 
@@ -82,7 +82,7 @@ Other departments with more females are Services, business development, Human Re
 
 
 ### Rating
-Rating was fairly distibuted among the genders.
+Tho Rating was fairly distibuted among the genders.
 
 Males had more very poor,poor and average rating while females lead in the good and very good category
 
@@ -134,23 +134,35 @@ Palmoria group falls short of this, with about 69% of the workers earning less t
 
 
 # Findings
-•	Gender is fairly distributed throughout the organization
+•	Gender is fairly distributed throughout the organization.
 
-•	Average salary is close for both gender categories but there are far more men than women earning between $110,000 - $120,000
+•	Kaduna region has the widest gender gap, followed by Lagos. Distribution was equal in Lagos.
 
-•	Employees ratings are fairly distributed across the genders
+•	Legal, Accounting, Support, Research and developemtent and Product Management department has a wide gender gap.
+
+• Marketing, Engineering and Training department gender is fairly distributed.
+
+•	Average salary for the employees is fairly distributed among the genders.
+
+•	In most departments the pay gap is more than 5% between both male and female gender.
+
+•	More males earn more than the minimum requirment(#90,000) compared to females.
+
+•	Employees ratings are fairly distributed across the genders.
 
 •	Majority of the employees earn salaries below the minimum requirement 
 
 
 # Recommendation
-•	The salaries should be reviewed upwards for the entire organization to ensure the minimum salary requirement is met.
+•	Gender distribution should be improved in Kaduna, Lagos region.
 
-•	The salary gap between men and women earning between $110,000 - $120,000 should be reviewed for fairness.
+•	Gender distribution should also be improved in Legal, Accounting, Support, Research and developemtent and Product Management department.
 
-•	Gender distribution should be improved in Kaduna region and across Legal, Support, Sales, and Accounting departments.
+•	The salary structure should be reviewed to ensure the minimum salary requirement is met.
 
+•	The salary gap between males and females should be reviewed for fairness.
 
+•	Survey should be carried out to find out why the females have better ratings than the males, and plans should be in place to train the employees.
 
 
 
